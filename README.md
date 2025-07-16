@@ -37,7 +37,7 @@ See each algorithm folder for details, usage, and examples.
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/yourusername/backend-algorithms-toolkit.git
+git clone https://github.com/DavidOgalo/backend-algorithms-toolkit.git
 cd backend-algorithms-toolkit
 pip install -r requirements.txt
 ```
