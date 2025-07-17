@@ -5,23 +5,29 @@ A comprehensive collection of production-ready algorithms and data structures sp
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Each algorithm or algorithm family is organized in its own folder under `algorithms/`, with a dedicated README for usage, details, and examples. This structure ensures clear separation of concerns, scalability, and ease of contribution.
 
-```bash
-algorithms/
-  algorithm_category/
-    algorithm_implementation_code.py
-    ... (other algorithms under category)
-    README.md
-  ... (other algorithm categories folders)
-tests/
-requirements.txt
-README.md
+Naming conventions:
+
+- **Folders:** kebab-case (e.g., `graph-algorithms`)
+- **Files:** snake_case (e.g., `sorting_algorithms.py`)
+
+``` bash
+backend-algorithms-toolkit/
+├── algorithms/
+│   ├── algorithm-category/
+│   │   ├── algorithm_implementation_code.py
+│   │   ├── [other algorithms under category]
+│   │   └── README.md
+│   └── [other algorithm categories]/
+├── tests/
+├── requirements.txt
+├── README.md
 ```
 
-## 🚀 Algorithm Categories
+## Algorithm Categories
 
 - Graph & Network Analysis (e.g., Dijkstra, Tarjan, criticality analysis)
 - Data Processing & Sorting (e.g., External Merge Sort, QuickSelect)
@@ -34,7 +40,7 @@ README.md
 
 See each algorithm folder for details, usage, and examples.
 
-## 🛠️ Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/DavidOgalo/backend-algorithms-toolkit.git
@@ -42,14 +48,14 @@ cd backend-algorithms-toolkit
 pip install -r requirements.txt
 ```
 
-## 🧭 How to Use
+## How to Use
 
 1. Browse the `algorithms/` directory for the algorithm you need.
 2. Read the folder's README for usage, API, and examples.
 3. Integrate the Python code into your backend project or use as a reference.
 4. Run or test as described in each folder.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To keep the toolkit high quality and relevant:
 
@@ -59,19 +65,17 @@ Contributions are welcome! To keep the toolkit high quality and relevant:
 4. Include clear usage examples
 5. Add or update the algorithm's README
 
-## 📚 Resources
+## Resources
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [High Performance Python](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
 - [Backend Engineering Patterns](https://github.com/backend-patterns)
 
-## 📄 License
+## License
 
-MIT License – use freely in your backend projects!
+MIT License – use freely in your backend projects and tasks!
 
 ---
 
-**Built for backend engineers, by backend engineers.** 🚀
-
-*Each algorithm is battle-tested for production use and optimized for real-world backend challenges.*
+*Each algorithm is tested for production use and optimized for real-world backend challenges.*

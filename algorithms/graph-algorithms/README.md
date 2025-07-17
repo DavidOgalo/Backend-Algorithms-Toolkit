@@ -5,7 +5,7 @@ This module provides production-ready graph algorithms and network analysis tool
 
 ---
 
-## ✨ Features
+## Features
 
 - Directed and undirected weighted graph modeling
 - Dijkstra's shortest path (latency/cost optimization)
@@ -17,7 +17,7 @@ This module provides production-ready graph algorithms and network analysis tool
 - Network partition detection and reporting
 - Caching for efficient repeated queries
 
-## 🧩 Algorithms Included
+## Algorithms Included
 
 - **Dijkstra's Algorithm**: Find shortest weighted paths (latency, cost, etc.)
 - **Tarjan's SCC Algorithm**: Detect strongly connected components (service clusters, cycles)
@@ -25,7 +25,7 @@ This module provides production-ready graph algorithms and network analysis tool
 - **Criticality Analysis**: Identify most critical servers in the network
 - **Alternative Path Discovery**: Enumerate multiple viable routes
 
-## 🚀 Use Cases
+## Use Cases
 
 - Optimize API call paths between microservices
 - Detect circular dependencies and service clusters
@@ -34,7 +34,7 @@ This module provides production-ready graph algorithms and network analysis tool
 - Monitor and report on service health and bottlenecks
 - Plan for redundancy and disaster recovery
 
-## 📦 Usage
+## Usage
 
 See [`graph_algorithms.py`](./graph_algorithms.py) for full implementation and advanced usage examples.
 

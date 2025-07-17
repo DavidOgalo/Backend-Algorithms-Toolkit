@@ -4,7 +4,7 @@ Production-grade rate limiting algorithms for backend services, APIs, and distri
 
 ---
 
-## ✨ Features
+## Features
 
 - Extensible architecture for multiple rate limiting algorithms
 - Per-client and per-endpoint rate limiting
@@ -15,7 +15,7 @@ Production-grade rate limiting algorithms for backend services, APIs, and distri
 
 ---
 
-## 🧩 Algorithms Included
+## Algorithms Included
 
 - **Token Bucket:** Burst-tolerant, time-based rate limiting (first implementation)
 - **APIRateLimitManager:** Centralized management for multiple endpoints and clients
@@ -23,7 +23,7 @@ Production-grade rate limiting algorithms for backend services, APIs, and distri
 
 ---
 
-## 🚀 Use Cases
+## Use Cases
 
 - API request throttling (REST, GraphQL, RPC)
 - Auth, upload, and custom endpoint rate limiting
@@ -32,7 +32,7 @@ Production-grade rate limiting algorithms for backend services, APIs, and distri
 
 ---
 
-## 📦 Usage
+## Usage
 
 See [`token_bucket.py`](./token_bucket.py) for the first implementation and advanced usage examples. Future implementations will follow a similar extensible interface.
 

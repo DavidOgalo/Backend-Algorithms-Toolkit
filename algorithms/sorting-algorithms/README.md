@@ -4,7 +4,7 @@ Production-ready sorting and analytics algorithms for backend data processing, a
 
 ---
 
-## ✨ Features
+## Features
 
 - External merge sort for datasets larger than available memory
 - Parallel chunked sorting for speed and scalability
@@ -15,7 +15,7 @@ Production-ready sorting and analytics algorithms for backend data processing, a
 
 ---
 
-## 🧩 Algorithms Included
+## Algorithms Included
 
 - **External Merge Sort:** Memory-efficient sorting for large datasets
 - **Parallel External Sort:** Multi-threaded chunked sorting
@@ -24,7 +24,7 @@ Production-ready sorting and analytics algorithms for backend data processing, a
 
 ---
 
-## 🚀 Use Cases
+## Use Cases
 
 - Handle datasets too large for memory (log files, analytics, ETL)
 - Real-time analytics and percentile calculations (SLA, latency, user behavior)
@@ -33,7 +33,7 @@ Production-ready sorting and analytics algorithms for backend data processing, a
 
 ---
 
-## 📦 Usage
+## Usage
 
 See [`sorting_algorithms.py`](./sorting_algorithms.py) for full implementation and advanced usage examples.
 

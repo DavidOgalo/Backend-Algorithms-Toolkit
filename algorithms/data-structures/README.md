@@ -5,7 +5,7 @@ Reusable, efficient, and production-ready data structures for backend and algori
 
 ---
 
-## ✨ Features
+## Features
 
 - **Binary Search Tree (BST):**
   - Maintains sorted order of keys
@@ -21,7 +21,7 @@ Reusable, efficient, and production-ready data structures for backend and algori
 
 ---
 
-## 🧩 Use Cases
+## Use Cases
 
 - Fast lookups, inserts, and updates for backend data
 - Caching and session management (Hash Table)
@@ -31,7 +31,7 @@ Reusable, efficient, and production-ready data structures for backend and algori
 
 ---
 
-## 📦 Importing and Using as Modules
+## Importing and Using as Modules
 
 You can import these data structures into other algorithms or backend services as needed:
 
@@ -54,6 +54,6 @@ print(cache.get("user_123"))
 
 ---
 
-## 📄 Implementation & Examples
+## Implementation & Examples
 
 See [`binary_search_tree.py`](./binary_search_tree.py) and [`hash_table.py`](./hash_table.py) for full implementations, detailed docstrings, and more usage examples.
