@@ -18,13 +18,13 @@ Naming conventions:
 backend-algorithms-toolkit/
 ├── algorithms/
 │   ├── algorithm-category/
-│   │   ├── algorithm_implementation_code.py
-│   │   ├── [other algorithms under category]
-│   │   └── README.md
-│   └── [other algorithm categories]/
+│   │   ├── algorithm_implementation.py
+│   │   ├── ...other algorithms under category
+│   │   └── algorithm category README.md
+│   └── ...other algorithm categories/
 ├── tests/
 ├── requirements.txt
-├── README.md
+├── main README.md
 ```
 
 ## Algorithm Categories
@@ -74,7 +74,7 @@ Contributions are welcome! To keep the toolkit high quality and relevant:
 
 ## License
 
-MIT License – use freely in your backend projects and tasks!
+MIT License – use freely in your backend projects/tasks!
 
 ---
 
