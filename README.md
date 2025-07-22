@@ -21,7 +21,8 @@ backend-algorithms-toolkit/
 │   │   ├── algorithm_implementation.py
 │   │   ├── ...other algorithms under category
 │   │   └── algorithm category README.md
-│   └── ...other algorithm categories/
+│   ├── ...other algorithm categories/
+│   └── [future-implementations]/
 ├── tests/
 ├── requirements.txt
 ├── main README.md
