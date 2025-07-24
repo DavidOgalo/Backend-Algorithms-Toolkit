@@ -58,13 +58,21 @@ pip install -r requirements.txt
 
 ## Contributing
 
-Contributions are welcome! To keep the toolkit high quality and relevant:
+Contributions are welcome! Please:
+
+1. Fork the repository
+2. Create a feature branch
+3. Follow the existing code style and documentation patterns
+4. Add comprehensive tests
+5. Update relevant documentation
+6. Submit a pull request
+
+To keep the toolkit high quality and relevant:
 
 1. Ensure real-world backend relevance
 2. Provide production-quality Python code (tests, docs, error handling)
 3. Optimize for backend performance
-4. Include clear usage examples
-5. Add or update the algorithm's README
+4. Add or update the respective README
 
 ## Resources
 
